@@ -1,1 +1,1 @@
-# just some projects from dataquest
+# just some projects from dataquest.
