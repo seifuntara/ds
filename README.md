@@ -1,1 +1,1 @@
-# ds
+# just some projects from dataquest
