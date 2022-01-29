@@ -1,6 +1,6 @@
 # (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ｗｅｌｃｏｍｅ❕ 
 
-Hi! My name is Muhammad Seif and I'm a final year computer science student whose main interest is in data science and analytics. Here are some projects I have worked on:
+*Hi! My name is Muhammad Seif and I'm a final year computer science student whose main interest is in data science and analytics. Here are some projects I have worked on:*
 
 ### [Badminton Match Outcome Prediction](FP.ipynb) 🏆
 Predicting the winner of a badminton match by making use of logistic regression and its iteraction terms using evolutionary computation to outperform less interpretable models like tree models. Data collected by web scraping from [badmintonstatistics.net](https://badmintonstatistics.net/) and [bwf.tournamentsoftware.com](https://bwf.tournamentsoftware.com/)
