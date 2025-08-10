@@ -24,7 +24,7 @@ st.write(
     """
     - Designed and optimised business process flows for internal invoicing system integration
     - Collaborated with multiple stakeholders to gather requirements and identify automation opportunities
-    - Performed internal testing, handled data issues in system processeds and led sprint planning 
+    - Performed internal testing, handled data issues in system processes and led sprint planning 
     """
 )
 st.markdown("**Technology Consultant | Ernst & Young, Jakarta** (Aug 2022 – Dec 2023)")
@@ -52,6 +52,7 @@ st.write(
     - **BSc in Computer Science, Universitas Gadjah Mada**, Indonesia (2018/08-2022/06)
     """
 )
+
 
 
 
