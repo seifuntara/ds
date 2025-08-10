@@ -52,13 +52,3 @@ st.write(
     - **BSc in Computer Science, Universitas Gadjah Mada**, Indonesia (2018/08-2022/06)
     """
 )
-
-
-
-
-
-
-
-
-
-
