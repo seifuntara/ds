@@ -5,7 +5,7 @@ st.set_page_config(page_title="CV")
 
 # Header
 htp = "https://github.com/seifuntara/ds/blob/master/newfolder/profile.jpg"
-st.image(htp, width=200)
+st.image(htp)
 st.title("Untara, Muhammad Seif Robbani")
 st.write("📍 Jakarta, Indonesia | 📧 seif30100@gmail.com | 📱 +62 81234361773 | 💼 [LinkedIn](https://linkedin.com/in/seifuntara)")
 st.markdown("---")
@@ -53,6 +53,7 @@ st.write(
     - **BSc in Computer Science, Universitas Gadjah Mada**, Indonesia (2018/08-2022/06)
     """
 )
+
 
 
 
